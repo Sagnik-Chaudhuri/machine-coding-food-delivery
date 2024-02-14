@@ -1,3 +1,3 @@
 package config
 
-// configs should be come here
+// configs should be here
