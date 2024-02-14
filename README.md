@@ -2,7 +2,8 @@
 
 ClearFood is a command-line application that simulates a virtual food delivery system. It allows users to register, rate restaurants, place orders, and view order history. The application uses an in-memory database and does not include a graphical user interface.
 
-This Project is an implementation of this [Public Repository](https://github.com/nSpider/machine-coding-food-delivery-app/tree/main). Please feel free to commit to any repo, as per your choice of poison (Read: Language!).
+This Project is an implementation of this [Public Repository](https://github.com/nSpider/machine-coding-food-delivery-app/tree/main). Given the time limit constraints, this is what we both could come up with. 
+Please feel free to commit to any repo and add more functionalities, as per your choice of poison (Read: Language!).
 Details are mentioned in this README below as well:
 
 
