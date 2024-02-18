@@ -78,3 +78,4 @@ update_location("Food Court-2", "BTM/HSR")  # Output: Food Court-2, "BTM/HSR", B
 - The application uses an in-memory database.
 - There is no graphical user interface.
 - A driver class can be used to simulate all the operations.
+- Solved in golang
