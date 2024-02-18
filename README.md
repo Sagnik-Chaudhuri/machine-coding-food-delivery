@@ -1,4 +1,4 @@
-# ClearFood
+# ClearFood (machine coding food delivery)
 
 ClearFood is a command-line application that simulates a virtual food delivery system. It allows users to register, rate restaurants, place orders, and view order history. The application uses an in-memory database and does not include a graphical user interface.
 
